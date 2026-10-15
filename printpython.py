@@ -1,0 +1,15 @@
+# name="naveen"
+# dept='python'
+# print(name)
+# print(dept)
+# print(dept[0])
+# print(dept[1])
+# print(dept[-1])
+# #pyt
+# print(dept[:3])
+# #thon
+# print(dept[2:6])
+# #pyth
+# print(dept[0:4])
+# #nohtyp
+# print(dept[::-1])
